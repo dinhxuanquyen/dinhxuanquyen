@@ -9,8 +9,12 @@
 
   <!-- Quick Contacts -->
   <p>
-    <a href="mailto:dinhxuanquyen324@gmail.com"><img src="https://img.shields.io/badge/Email-dinhxuanquyen324@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/dinhxuanquyen"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="mailto:dinhxuanquyen324@gmail.com">
+      <img src="https://img.shields.io/badge/Email-dinhxuanquyen324%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/dinhxuanquyen">
+      <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
   </p>
 
 </div>
@@ -62,14 +66,14 @@
 
 ### 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dinhxuanquyen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Quyen's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhxuanquyen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=dinhxuanquyen&show_icons=true&theme=tokyonight&hide_border=true" alt="Quyen's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dinhxuanquyen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinhxuanquyen&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinhxuanquyen&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
